@@ -16,7 +16,7 @@ public class DBUtil {
     public static Connection getConn(){
         try{
             String url ="jdbc:mysql://localhost:3306/itoffer?serverTimezone=UTC&useSSL=false";
-            Connection conn = DriverManager.getConnection(url,"root","minecraft233");
+            Connection conn = DriverManager.getConnection(url,"YOUR_USERNAME","YOUR_PASSWORD");
             return conn;
         }catch (Exception e){
             e.printStackTrace();
