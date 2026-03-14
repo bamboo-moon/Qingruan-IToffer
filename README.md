@@ -1,6 +1,7 @@
 # 青软 IToffer 招聘网站
 
 基于 MVC 模式的 JavaWeb 招聘网站，通过 JDBC 连接 MySQL 数据库，提供用户端与管理员端双页面，具备职位展览、求职投递、招聘管理等核心功能。
+项目报告可见：https://blog.csdn.net/2301_79234464/article/details/158210717
 
 ---
 
